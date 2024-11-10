@@ -1,0 +1,2 @@
+Prisma just recently had a version break with node which the Dev team expects 
+fixed within a few days. I'll wait for that.
